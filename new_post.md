@@ -1,24 +1,10 @@
----
-title: My awesome title
-date: 2019-07-14 18:38:45
-categories:
-    - Articles
-    - Статьи
-tags:
-    - Python
-    - RaspberryPi
-	- FlySky
-	- Programming
-mp3: https://ruy.hitmos.org/get/music/20190330/muzlome_Billie_Eilish_-_bad_guy_63154737.mp3
-cover: http://chudo.tech/wp-content/uploads/2017/03/Prodrone-ARM.jpg
----
-Всем привет! Данная статья создана для прередачи информации и прогресса в более высоком темпе. Если вы хотите узнать прогресс продвижения разработки захвата, то зайдите сюда.
+Данная статья создана для прередачи информации и прогресса в более высоком темпе. Если вы хотите узнать прогресс продвижения разработки захвата, то зайдите сюда.
 
 ### Код для захвата на основе RPi и Python и библиотеки [AB Electronics UK Servo Pi Python Library] (https://github.com/abelectronicsuk/ABElectronics_Python_Libraries/tree/master/ServoPi)
 
 
 ``` 
-#скоро...
+#скоро тут будет код...
 ```
 
 
